@@ -1,0 +1,17 @@
+.box1 {
+	width:150px;
+	height : 150px;
+	background-color:  #3f8d3f;
+	position: absolute;
+	left : 50px;
+	top : 0;
+  opacity: 0;
+}
+
+.text { 
+  position: relative;
+  left: 20px; 
+  color: black;
+  font-weight: bold;
+  opacity: 0;
+}
